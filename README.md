@@ -1,5 +1,5 @@
 # Insurance-Fraud-Project-1
-Repository for my insurance fraud project
+
 
 This project aims to develop a machine learning model to identify fraudulent claims in insurance data. The goal is to minimize false negatives to ensure that fraudulent claims are detected and flagged effectively.
 
